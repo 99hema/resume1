@@ -1,0 +1,196 @@
+.main{
+	border: 2px solid red;
+padding: 2%;
+margin: 2%;
+}
+.main{
+	display:flex;
+	flex-direction:column;
+}
+a{
+	word-wrap:break-word;
+}
+.left{border: 2px solid blue;
+padding: 2%;
+margin: 2%;
+ border-radius: 10%;
+ width: 30%;
+}
+.left img{
+	width: 30%;
+	border-radius: 50%;
+	border: 5px solid green;
+	box-shadow: 12px 20px 19px black;
+}
+.right{
+	border: 2px solid red;
+padding: 2%;
+margin: 2%;
+width: 60%;
+}
+#number{
+	font-size: 18px;
+	color:brown;
+}
+p{
+	color: red;
+font-size: 15px;
+}
+@media only screen and (min-width:320px) and (max-width:480px)
+{
+.main
+{
+	border:2px solid red;
+padding:2%;
+margin:2%;
+}
+.main{
+	display:flex;
+	flex-direction:row;
+}
+a{
+	word-wrap:break-word;
+}
+.left{
+	border:2px solid blue;
+padding:2%;
+margin:2%;
+ border-radius:10%;
+ width:70%;
+ background-color: pink;
+}
+.left img{
+	width:30%;
+	border-radius:50%;
+	border: 5px solid green;
+	box-shadow: 12px 20px 19px black;
+}
+.right{
+	border:2px solid red;
+padding:2%;
+margin:2%;
+width:70%;
+border-radius:10%;
+background-color:blue;
+}
+#number{
+	color: brown;
+	font-size: 40px;
+}
+p{
+	font-size:15px;
+	color:brown;
+}
+.table1{
+	width:90%;
+	overflow-x: auto;
+}
+}
+@media only screen and (min-width:481px) and (max-width:768px)
+{
+.main
+{
+	border:2px solid red;
+padding:2%;
+margin:2%;
+}
+.main{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+}
+a{
+	word-wrap:break-word;
+}
+.left{
+	border:2px solid blue;
+padding:2%;
+margin:2%;
+ border-radius:10%;
+ width:40%;
+}
+.left img{
+	width:30%;
+	border-radius:50%;
+	border: 5px solid green;
+	box-shadow: 12px 20px 19px black;
+}
+.right{
+	border:2px solid red;
+padding:2%;
+margin:2%;
+width:40%;
+border-radius:10%;
+background-color:green;
+}
+#number{
+	color: brown;
+	font-size: 40px;
+}
+p{
+	font-size:15px;
+	color:brown;
+}
+.table1{
+	width:90%;
+	overflow-x: auto;
+}
+}
+@media only screen and (min-width:769px) and (max-width:1024px)
+{
+.main
+{
+	border:2px solid red;
+padding:2%;
+margin:2%;
+}
+.main{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+}
+a{
+	word-wrap:break-word;
+}
+.left{
+	border:2px solid blue;
+padding:2%;
+margin:2%;
+ border-radius:10%;
+ width:40%;
+}
+.left img{
+	width:30%;
+	border-radius:50%;
+	border: 5px solid green;
+	box-shadow: 12px 20px 19px black;
+    background-color:pink; 
+}
+.right{
+	border:2px solid red;
+padding:2%;
+margin:2%;
+width:40%;
+border-radius:10%;
+}
+#number{
+	color: brown;
+	font-size: 40px;
+}
+p{
+	font-size:15px;
+	color:brown;
+}
+.table1{
+	width:90%;
+	overflow-x: auto;
+}
+}
+
+
+
+
+
+
+
+

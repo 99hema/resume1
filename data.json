@@ -1,0 +1,63 @@
+{
+    "details":{
+        "image":"download.png",
+        "name":"hema",
+        "phonenumber":"+91-8883335522",
+        "email":"hemalalitha583@gmail.com",
+        "address":"vignan's nirula college,guntur."
+    },
+    "career":{
+         "info":"career choice is a challenging task"
+    },
+    "education":[
+     {
+        "qualification":"b.tech",
+        "institute":"vignan's nirula college",
+        "year":"2020",
+        "percentage":"83%"
+     },   
+      { 
+         "qualification":"intermediate",
+         "institute":"narayana",
+          "year":"2016",
+         "percentage":"95%"    
+     },
+     {
+        "qualification":"ssc",
+        "institute":"eetharam",
+        "year":"2014",
+        "percentage":"87%"
+     }
+    ],
+    "skills":[{
+        "title":"programming languages",
+        "info":["c","java","python","ruby","cpp"]
+        },
+        {
+        "title":"databases",
+        "info":["oracle","sql","mysql"]
+        },
+        {
+            "title":"operatingsystems",
+            "info":["unix","linux","mac"]
+        }
+        ],
+    "achievements":[{
+             
+             "info":"first"
+         },
+             {
+                "info":"second"
+            },
+            {
+                "info":"third"
+       }
+    ]
+}
+            
+        
+    
+
+       
+
+
